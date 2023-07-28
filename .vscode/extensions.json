@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-azuretools.vscode-docker",
+        "negokaz.live-server-preview",
+        "christian-kohler.npm-intellisense"
+    ]
+}
